@@ -1,0 +1,158 @@
+{
+  "Product": [
+    {
+      "name": "Samsung Galaxy M30",
+      "description": "This is my Mobile",
+      "price": "9999",
+      "quantity": "150",
+      "type": "Electronics",
+      "updatedDate": "17/Jun/2020",
+      "updatedTime": "13:7:36",
+      "date": "29/May/2020",
+      "time": "12:35:3",
+      "views": 36,
+      "id": 2
+    },
+    {
+      "name": "Pine Apple",
+      "description": "This is fruits category",
+      "price": "100/kg",
+      "quantity": 1150,
+      "type": "Food",
+      "updatedDate": "17/Jun/2020",
+      "updatedTime": "13:8:47",
+      "date": "29/May/2020",
+      "time": "12:35:3",
+      "views": 26,
+      "id": 3
+    },
+    {
+      "name": "Mango",
+      "description": "Mango is an eatable item",
+      "price": "100/kg",
+      "quantity": 1150,
+      "type": "Stationery",
+      "updatedDate": "17/Jun/2020",
+      "updatedTime": "13:1:9",
+      "date": "29/May/2020",
+      "time": "12:35:3",
+      "views": 75,
+      "id": 73
+    },
+    {
+      "name": "Strawberry",
+      "description": "egsjghjsghjshgjhjhsffffffff",
+      "price": "100/kg",
+      "quantity": 1150,
+      "type": "Stationery",
+      "updatedDate": null,
+      "updatedTime": null,
+      "id": 33,
+      "date": "29/May/2020",
+      "time": "12:35:3",
+      "views": 12
+    },
+    {
+      "name": "Grapes",
+      "description": "sfghrhtjrhwtjh",
+      "price": "100/kg",
+      "quantity": 1150,
+      "type": "Food",
+      "date": "29/May/2020",
+      "time": "12:35:3",
+      "id": 4,
+      "updatedDate": null,
+      "updatedTime": null,
+      "views": 77
+    },
+    {
+      "name": "Banana",
+      "description": "sfghrhtjrhwtjh",
+      "price": "100/kg",
+      "quantity": 1150,
+      "type": "Food",
+      "date": "29/May/2020",
+      "time": "12:35:3",
+      "id": 6,
+      "updatedDate": null,
+      "updatedTime": null,
+      "views": 87
+    },
+    {
+      "name": "Papaya",
+      "description": "sfghrhtjrhwtjh",
+      "price": "100/kg",
+      "quantity": 1150,
+      "type": "Food",
+      "date": "29/May/2020",
+      "time": "12:35:3",
+      "id": 7,
+      "updatedDate": null,
+      "updatedTime": null,
+      "views": 123
+    },
+    {
+      "name": "Pomogranate",
+      "description": "sfghrhtjrhwtjh",
+      "price": "100/kg",
+      "type": "Food",
+      "quantity": 1150,
+      "date": "29/May/2020",
+      "time": "12:35:3",
+      "id": 9,
+      "updatedDate": null,
+      "updatedTime": null,
+      "views": 53
+    },
+    {
+      "name": "Apple",
+      "description": "sfghrhtjrhwtjh",
+      "price": "100/kg",
+      "quantity": 1150,
+      "type": "Food",
+      "date": "29/May/2020",
+      "time": "12:35:3",
+      "id": 11,
+      "updatedDate": null,
+      "updatedTime": null,
+      "views": 778
+    },
+    {
+      "name": "Idly",
+      "description": "THis is an eatble item",
+      "price": "25",
+      "quantity": "5",
+      "type": "Electronics",
+      "date": "29/May/2020",
+      "time": "12:5:29",
+      "id": 5,
+      "updatedDate": null,
+      "updatedTime": null,
+      "views": 458
+    }
+  ],
+  "User": [
+    {
+      "id": "239738ff-9bcf-41a4-8b23-35b3bd519583",
+      "firstname": "Pulsar",
+      "lastname": "raja",
+      "phone": "9659912706",
+      "email": "hutsraja@gmail.com",
+      "password": "123456789",
+      "location": "Chennai",
+      "date": "15/May/2020",
+      "time": "13:23:24"
+    },
+    {
+      "id": "b9de71f3-8da1-4be7-9c88-46ecc4033bf2",
+      "firstname": "Murugaraja",
+      "lastname": "Shanmuga",
+      "phone": "000000000",
+      "email": "hutsraja@gmail.coml",
+      "password": "123456789",
+      "location": "Chennai",
+      "date": "6/Jun/2020",
+      "time": "12:6:15"
+    }
+  ]
+}
