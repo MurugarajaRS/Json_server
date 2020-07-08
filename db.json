@@ -1,43 +1,56 @@
 {
   "Product": [
     {
-      "name": "Samsung Galaxy M30",
-      "description": "This is my Mobile",
+      "name": "Asus zenfone max pro m2",
+      "description": "This is an mobile phone",
       "price": "9999",
-      "quantity": "150",
+      "quantity": "1",
       "type": "Electronics",
-      "updatedDate": "17/Jun/2020",
-      "updatedTime": "13:7:36",
+      "updatedDate": "6/Jun/2020",
+      "updatedTime": "14:25:51",
+      "id": 1,
       "date": "29/May/2020",
       "time": "12:35:3",
-      "views": 36,
+      "views": 12
+    },
+    {
+      "name": "Apples100",
+      "description": "this is an eatable item",
+      "price": "1000/kg",
+      "quantity": "1550",
+      "type": "Food",
+      "updatedDate": "6/Jun/2020",
+      "updatedTime": "14:35:40",
+      "date": "29/May/2020",
+      "time": "12:35:3",
+      "views": 12,
       "id": 2
     },
     {
       "name": "Pine Apple",
-      "description": "This is fruits category",
-      "price": "100/kg",
-      "quantity": 1150,
-      "type": "Food",
-      "updatedDate": "17/Jun/2020",
-      "updatedTime": "13:8:47",
-      "date": "29/May/2020",
-      "time": "12:35:3",
-      "views": 26,
-      "id": 3
-    },
-    {
-      "name": "Mango",
-      "description": "Mango is an eatable item",
+      "description": "egsjghjsghjshgjhjhsffffffff",
       "price": "100/kg",
       "quantity": 1150,
       "type": "Stationery",
-      "updatedDate": "17/Jun/2020",
-      "updatedTime": "13:1:9",
+      "updatedDate": "6/Jun/2020",
+      "updatedTime": "14:25:51",
+      "id": 3,
       "date": "29/May/2020",
       "time": "12:35:3",
-      "views": 75,
-      "id": 73
+      "views": 12
+    },
+    {
+      "name": "Mango",
+      "description": "egsjghjsghjshgjhjhsffffffff",
+      "price": "100/kg",
+      "quantity": 1150,
+      "type": "Stationery",
+      "updatedDate": "6/Jun/2020",
+      "updatedTime": "14:25:51",
+      "id": 73,
+      "date": "29/May/2020",
+      "time": "12:35:3",
+      "views": 12
     },
     {
       "name": "Strawberry",
@@ -45,8 +58,8 @@
       "price": "100/kg",
       "quantity": 1150,
       "type": "Stationery",
-      "updatedDate": null,
-      "updatedTime": null,
+      "updatedDate": "6/Jun/2020",
+      "updatedTime": "14:25:51",
       "id": 33,
       "date": "29/May/2020",
       "time": "12:35:3",
@@ -61,8 +74,8 @@
       "date": "29/May/2020",
       "time": "12:35:3",
       "id": 4,
-      "updatedDate": null,
-      "updatedTime": null,
+      "updatedDate": "",
+      "updatedTime": "",
       "views": 77
     },
     {
@@ -74,8 +87,8 @@
       "date": "29/May/2020",
       "time": "12:35:3",
       "id": 6,
-      "updatedDate": null,
-      "updatedTime": null,
+      "updatedDate": "29/May/2020",
+      "updatedTime": "",
       "views": 87
     },
     {
@@ -87,8 +100,8 @@
       "date": "29/May/2020",
       "time": "12:35:3",
       "id": 7,
-      "updatedDate": null,
-      "updatedTime": null,
+      "updatedDate": "29/May/2020",
+      "updatedTime": "",
       "views": 123
     },
     {
@@ -100,8 +113,8 @@
       "date": "29/May/2020",
       "time": "12:35:3",
       "id": 9,
-      "updatedDate": null,
-      "updatedTime": null,
+      "updatedDate": "29/May/2020",
+      "updatedTime": "",
       "views": 53
     },
     {
@@ -113,9 +126,9 @@
       "date": "29/May/2020",
       "time": "12:35:3",
       "id": 11,
-      "updatedDate": null,
-      "updatedTime": null,
-      "views": 778
+      "updatedDate": "29/May/2020",
+      "updatedTime": "",
+      "views": 45
     },
     {
       "name": "Idly",
@@ -126,8 +139,8 @@
       "date": "29/May/2020",
       "time": "12:5:29",
       "id": 5,
-      "updatedDate": null,
-      "updatedTime": null,
+      "updatedDate": "29/May/2020",
+      "updatedTime": "",
       "views": 458
     }
   ],
@@ -136,8 +149,8 @@
       "id": "239738ff-9bcf-41a4-8b23-35b3bd519583",
       "firstname": "Pulsar",
       "lastname": "raja",
-      "phone": "9659912706",
-      "email": "hutsraja@gmail.com",
+      "phone": "0000000000",
+      "email": "raja1@gmail.com",
       "password": "123456789",
       "location": "Chennai",
       "date": "15/May/2020",
@@ -147,8 +160,8 @@
       "id": "b9de71f3-8da1-4be7-9c88-46ecc4033bf2",
       "firstname": "Murugaraja",
       "lastname": "Shanmuga",
-      "phone": "000000000",
-      "email": "hutsraja@gmail.coml",
+      "phone": "0000000001",
+      "email": "raja2@gmail.coml",
       "password": "123456789",
       "location": "Chennai",
       "date": "6/Jun/2020",
